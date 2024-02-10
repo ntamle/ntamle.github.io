@@ -27,6 +27,8 @@ Nonsmooth calculus and optimization for machine learning: first-order sampling a
 
 ## Talks
 
+**  Nonsmooth nonconvex stochastic heavy ball,  Mathematical Optimization research seminar, University of Tübingen (online), 2024.
+
 ** Nonsmooth implicit differentiation in machine learning and optimization
 
 * ANITI-PRAIRIE workshop, Toulouse, 2023.

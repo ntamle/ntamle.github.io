@@ -8,12 +8,12 @@ redirect_from:
 ---
 Hello! I am a postdoctoral researcher in the team [DAO](https://dao-ljk.imag.fr/), at LJK, Université Grenoble Alpes. I work on statistical aspects of Wasserstein distributionally robust optimization.
 
-Previously, I completed my PhD (October 2023) at Toulouse School of Economics (TSE) and ANITI, supervized by Jérôme Bolte (TSE) and Edouard Pauwels (formerly IRIT, Université Toulouse 3-now TSE). I worked on stochastic, nonsmooth and nonconvex optimization in machine learning.
+Previously, I completed my PhD (October 2023) at Toulouse School of Economics (TSE) and ANITI, supervized by Jérôme Bolte and Edouard Pauwels. I worked on stochastic, nonsmooth and nonconvex optimization in machine learning.
 
 
 ## Pre-prints
 
-* Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick, submitted to ICML 2024
+* Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick, under review.
 
 ## Publications
 

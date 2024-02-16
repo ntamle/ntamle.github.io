@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a postdoctoral researcher in the team [DAO](https://dao-ljk.imag.fr/), at LJK, Université Grenoble Alpes. I work on statistical aspects of Wasserstein distributionally robust optimization.
+Hello! I am a postdoctoral researcher in the team [DAO](https://dao-ljk.imag.fr/), at LJK, Université Grenoble Alpes. I work on statistical aspects of Wasserstein distributionally robust models.
 
-Previously, I completed my PhD (October 2023) at Toulouse School of Economics (TSE) and ANITI, supervized by Jérôme Bolte and Edouard Pauwels. I worked on stochastic, nonsmooth and nonconvex optimization in machine learning.
+Previously, I completed my PhD (October 2023) at Toulouse School of Economics (TSE) and ANITI, supervized by Jérôme Bolte and Edouard Pauwels. I worked on stochastic, nonsmooth and nonconvex optimization in machine learning. Some questions I studied there included convergence guarantees when using automatic differentiation in stochastic algorithms (e.g. SGD in deep learning), and nonsmooth implicit differentiation applied to optimization layers and hyperparameter selection.
 
 
 ## Pre-prints

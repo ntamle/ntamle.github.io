@@ -13,7 +13,7 @@ Previously, I completed my PhD (October 2023) at Toulouse School of Economics (T
 
 ## Pre-prints
 
-* Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick, under review.
+* Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick, under review \[[preprint](https://ntamle.github.io/files/preprint_wdro.pdf)\].
 
 ## Publications
 
@@ -25,18 +25,18 @@ Previously, I completed my PhD (October 2023) at Toulouse School of Economics (T
 ## Thesis
 Nonsmooth calculus and optimization for machine learning: first-order sampling and implicit differentiation, T. Le, PhD Thesis, 2023. Advised by Jérôme Bolte and Edouard Pauwels. \[[manuscript](https://ntamle.github.io/files/manuscript.pdf)\] \[[slides](https://ntamle.github.io/files/slides.pdf)\]
 
-## Talks
+## Communications
 
-**  Nonsmooth nonconvex stochastic heavy ball,  Mathematical Optimization research seminar, University of Tübingen (online), 2024.
+**  Nonsmooth nonconvex stochastic heavy ball,  Mathematical Optimization research seminar, University of Tübingen (online talk), 2024.
 
 ** Nonsmooth implicit differentiation in machine learning and optimization
 
-* ANITI-PRAIRIE workshop, Toulouse, 2023.
+* ANITI-PRAIRIE workshop, Toulouse (poster), 2023.
 * Neurips (online poster), Neurips Paris event (poster), 2021.
-* Stat-Eco-ML seminar, CREST, 2021.
+* Stat-Eco-ML seminar, CREST (talk), 2021.
 
   
-** Subgradient sampling in nonconvex minimization.
+** Subgradient sampling in nonconvex minimization (talks).
 
 * EUROPT,  Budapest 2023.
 * SIAM Conference on optimization, Seattle 2023. 
@@ -52,25 +52,24 @@ Nonsmooth calculus and optimization for machine learning: first-order sampling a
 
 
 ## Teaching
-I gave several tutorials at Université Capitole 1 Toulouse (64 H / year):
+I gave several tutorials at Université Toulouse 1 Capitole and TSE (64 H / year):
 
 ** 2022 
-* R for data science and statistics (M1), Fall 2022, TSE
-* Optimization (L3 Economics), Spring 2023, TSE
-* Optimization for big data (M1), Spring 2023, TSE
-* PyTorch tutorial for Deep Learning (M2)
-
+* R for data science and statistics (M1 Data science for social sciences)
+* Optimization for big data (M1 Data science for social sciences)
+* PyTorch tutorial for Deep Learning (M2 Data science for social sciences)
+* Optimization (L3 Economics)
   
 ** 2021 
-* Mathematics for Economics and Management, (L1 Economics and Management), Fall 2021,
-* Mathematics, Undergraduate (L1 Economics and Mathematics), Fall 2021, TSE
-* Analysis and Optimization, (L3 Economics and Mathematics), Spring 2022, TSE
+* Mathematics for Economics and Management, (L1 Economics and Management)
+* Mathematics, Undergraduate (L1 Economics and Mathematics)
+* Analysis and Optimization, (L3 Economics and Mathematics)
 
 
 ** 2020
 * Support course in mathematics (L1)
 * Descriptive statistics (L1)
-* Mathematics for Management(L1)
+* Mathematics for Management(L1) 
 
 
 ## Education

@@ -72,6 +72,9 @@ I gave several tutorials at Université Toulouse 1 Capitole and TSE (64 H / year
 * Mathematics for Management(L1) 
 
 
+## Reviewer
+I served as a reviewer for AISTATS (2023), SIAM Journal on optimization and Mathematical programming.
+
 ## Education
 * Ph.D. in Applied Mathematics, Toulouse School of Economics, 2020 - 2023
 * MSc in Machine Learning and Computer Vision, ENS Paris-Saclay, 2019 - 2020

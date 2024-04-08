@@ -44,13 +44,13 @@ Nonsmooth calculus and optimization for machine learning: first-order sampling a
   
 ** Subgradient sampling in nonconvex minimization (talks).
 
-* EUROPT,  Budapest 2023.
+* EUROPT, Budapest 2023.
 * SIAM Conference on optimization, Seattle 2023. 
 * PGMO Days, Paris 2022.
 * GdR MOA Days, Nice 2022.
 * Mathematical Optimization research seminar, University of Tübingen (online), 2022.
-* ICCOPT 2022.
-* French-German days Inria, Paris 2021.
+* ICCOPT, Bethlehem (Pennsylvania) 2022.
+* French-German days Inria, Le Chesnay-Rocquencourt 2021.
 * Toulouse School of Economics, PhD students seminar.
 
  

@@ -29,6 +29,10 @@ Nonsmooth calculus and optimization for machine learning: first-order sampling a
 
 ## Communications
 
+** Generalization guarantees of Wasserstein robust models
+
+* Journées SMAI-MODE Lyon, 2024
+
 **  Nonsmooth nonconvex stochastic heavy ball,  Mathematical Optimization research seminar, University of Tübingen (online talk), 2024.
 
 ** Nonsmooth implicit differentiation in machine learning and optimization

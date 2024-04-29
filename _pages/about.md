@@ -16,7 +16,8 @@ Previously, I completed my PhD (October 2023) at Toulouse School of Economics (T
 ## Pre-prints
 
 * Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick, under review \[[preprint](https://ntamle.github.io/files/preprint_wdro.pdf)\].
-
+* Inexact subgradient methods for semialgebraic functions, J. Bolte, T. Le, E. Moulines and E. Pauwels, \[[preprint](https://ntamle.github.io/files/preprint_biais.pdf)\].
+  
 ## Publications
 
 * Nonsmooth Implicit Differentiation for Machine Learning and Optimization J. Bolte, T. Le, E. Pauwels, A. Silveti-Falls, NeurIPS 2021. \[[paper](https://arxiv.org/abs/2106.04350)\]

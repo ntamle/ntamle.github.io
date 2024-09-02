@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Tam Le, Postdoc in optimization and machine learning"
+title                    : "Tam Le, Assistant Professor in optimization and machine learning"
 title_separator          : "-"
 name                     : &name "Tam Le"
-description              : &description "Postdoctoral researcher in Optimization and Machine learning"
+description              : &description "Assistant Professor in Optimization and Machine learning"
 url                      : https://ntamle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ntamle/ntamle.github.io"

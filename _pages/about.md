@@ -29,7 +29,7 @@ Previously, I was a postdoctoral researcher in the team [DAO](https://dao-ljk.im
 ## Thesis
 Nonsmooth calculus and optimization for machine learning: first-order sampling and implicit differentiation, T. Le, PhD Thesis, 2023. Advised by Jérôme Bolte and Edouard Pauwels. \[[manuscript](https://ntamle.github.io/files/manuscript.pdf)\] \[[slides](https://ntamle.github.io/files/slides.pdf)\]
 
-Awarded the \[PGMO PhD Award 2024(https://www.fondation-hadamard.fr/en/our-programs/thematic-programs/pgmohome/phd-awards/)\]!
+Awarded the \[PGMO PhD Award 2024(https://www.fondation-hadamard.fr/en/our-programs/thematic-programs/pgmohome/phd-awards)\]!
 
 
 ## Communications

@@ -34,6 +34,7 @@ Awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our-progr
 
 ## Communications
 
+
 ** Generalization guarantees of Wasserstein robust models
 
 * LAMSADE-MILES seminar - Université Paris Dauphine, Paris (talk), 2024

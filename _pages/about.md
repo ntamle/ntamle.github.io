@@ -20,7 +20,7 @@ Previously, I was a postdoctoral researcher in the team [DAO](https://dao-ljk.im
   
 ## Publications
 
-* Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick, ICLR 2025 \[[preprint](https://ntamle.github.io/files/preprint_wdro.pdf)\]. 
+* Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick,  ICLR 2025 (Spotlight) \[[preprint](https://ntamle.github.io/files/preprint_wdro.pdf)\]. 
 * Subgradient sampling for nonsmooth nonconvex minimization, J. Bolte, T. Le, E. Pauwels, SIAM Journal on Optimization 2023 \[[paper](https://arxiv.org/abs/2202.13744)\]
 * Nonsmooth nonconvex stochastic heavy ball, to appear in Journal of Optimization Theory and Applications 2024 \[[paper](https://arxiv.org/abs/2304.13328)\]
 * Nonsmooth Implicit Differentiation for Machine Learning and Optimization J. Bolte, T. Le, E. Pauwels, A. Silveti-Falls, NeurIPS 2021. \[[paper](https://arxiv.org/abs/2106.04350)\]

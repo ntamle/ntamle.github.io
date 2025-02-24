@@ -16,14 +16,15 @@ Previously, I was a postdoctoral researcher in the team [DAO](https://dao-ljk.im
 
 ## Pre-prints
 
-* Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick, under review \[[preprint](https://ntamle.github.io/files/preprint_wdro.pdf)\].
 * Inexact subgradient methods for semialgebraic functions, J. Bolte, T. Le, E. Moulines and E. Pauwels, \[[preprint](https://ntamle.github.io/files/preprint_biais.pdf)\].
   
 ## Publications
 
-* Nonsmooth Implicit Differentiation for Machine Learning and Optimization J. Bolte, T. Le, E. Pauwels, A. Silveti-Falls, NeurIPS 2021. \[[paper](https://arxiv.org/abs/2106.04350)\]
+* Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick, ICLR 2025 \[[preprint](https://ntamle.github.io/files/preprint_wdro.pdf)\]. 
 * Subgradient sampling for nonsmooth nonconvex minimization, J. Bolte, T. Le, E. Pauwels, SIAM Journal on Optimization 2023 \[[paper](https://arxiv.org/abs/2202.13744)\]
 * Nonsmooth nonconvex stochastic heavy ball, to appear in Journal of Optimization Theory and Applications 2024 \[[paper](https://arxiv.org/abs/2304.13328)\]
+* Nonsmooth Implicit Differentiation for Machine Learning and Optimization J. Bolte, T. Le, E. Pauwels, A. Silveti-Falls, NeurIPS 2021. \[[paper](https://arxiv.org/abs/2106.04350)\]
+
 
 
 ## Thesis
@@ -70,6 +71,13 @@ Awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our-progr
 
 
 ## Teaching
+
+** 2024-25 Université Paris Cité
+
+Numerical methods, statistics and sampling methods, convex optimization tutorials (TD) for L3 MIASHS students (last year of Bachelor in applied mathematics).
+
+
+
 I gave several tutorials at Université Toulouse 1 Capitole and TSE (64 H / year):
 
 ** 2022 
@@ -90,8 +98,10 @@ I gave several tutorials at Université Toulouse 1 Capitole and TSE (64 H / year
 * Mathematics for Management(L1) 
 
 
-## Reviewer
-I served as a reviewer for AISTATS (2023), SIAM Journal on optimization and Mathematical programming.
+## Professional services
+
+* Co-organizing the statistics seminar at LPSM in 2024-2025.
+* Reviewing: I served as a reviewer for AISTATS (2023), ICLR (2025), SIAM Journal on optimization and Mathematical programming.
 
 ## Education
 * Ph.D. in Applied Mathematics, Toulouse School of Economics, 2020 - 2023

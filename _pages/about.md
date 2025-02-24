@@ -74,7 +74,11 @@ Awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our-progr
 
 ** 2024-25 Université Paris Cité
 
-Numerical methods, statistics and sampling methods, convex optimization tutorials (TD) for L3 MIASHS students (last year of Bachelor in applied mathematics).
+Tutorials (TD) for Bachelor students (L3 Maths, MIASHS)
+
+* Numerical methods
+* Statistics and sampling methods
+* Convex optimization
 
 
 

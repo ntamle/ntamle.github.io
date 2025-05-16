@@ -33,7 +33,7 @@ Nonsmooth calculus and optimization for machine learning: first-order sampling a
 
 
 
-I was awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our-programs/thematic-programs/pgmohome/phd-awards)! 
+I was awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our-programs/thematic-programs/pgmohome/phd-awards). 
 
 
 ## Communications

@@ -73,7 +73,7 @@ Awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our-progr
 
 ## Teaching
 
-In 2024-2025, I gave tutorials and hands on sessions (TD et TP) to Bachelor students  at Université Paris Cité
+In 2024-2025, I gave tutorials (sessions dedicated to guided exercises) and hands on sessions (TD et TP) to Bachelor students  at Université Paris Cité
 
 * Numerical methods (L3 Maths, MIASHS)
 * Convex optimization (L3 Maths, MIASHS)

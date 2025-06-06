@@ -17,13 +17,14 @@ Previously, I was a postdoctoral researcher in the team [DAO](https://dao-ljk.im
 
 ## Pre-prints
 
-* Inexact subgradient methods for semialgebraic functions, J. Bolte, T. Le, E. Moulines and E. Pauwels, \[[preprint](https://arxiv.org/abs/2404.19517)\].
-  
+Unregularized limit of stochastic gradient method for Wasserstein distributionally robust optimization \[[pre-print](https://arxiv.org/abs/2506.04948)\]
+
 ## Publications
 
+* Inexact subgradient methods for semialgebraic functions, J. Bolte, T. Le, E. Moulines and E. Pauwels, Mathematical Programming \[[paper](https://arxiv.org/abs/2404.19517)\].
 * Universal Generalization Guarantees for Wasserstein Distributionally Robust Models, T. Le and J. Malick,  ICLR 2025 (Spotlight) \[[paper](https://arxiv.org/pdf/2402.11981)\]. 
 * Subgradient sampling for nonsmooth nonconvex minimization, J. Bolte, T. Le, E. Pauwels, SIAM Journal on Optimization 2023 \[[paper](https://arxiv.org/abs/2202.13744)\]
-* Nonsmooth nonconvex stochastic heavy ball, to appear in Journal of Optimization Theory and Applications 2024 \[[paper](https://arxiv.org/abs/2304.13328)\]
+* Nonsmooth nonconvex stochastic heavy ball, Journal of Optimization Theory and Applications 2024 \[[paper](https://arxiv.org/abs/2304.13328)\]
 * Nonsmooth Implicit Differentiation for Machine Learning and Optimization J. Bolte, T. Le, E. Pauwels, A. Silveti-Falls, NeurIPS 2021. \[[paper](https://arxiv.org/abs/2106.04350)\]
 
 

@@ -41,15 +41,13 @@ I was awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our
 
 **  Inexact subgradient methods for semialgebraic functions, ICCOPT 2025, Los Angeles
 
-
 ** Talk for the PGMO PhD Prize 2024 \[[slides](https://ntamle.github.io/files/pgmo_phd_prize_slides.pdf)\]
-
-
 
 ** Generalization guarantees of Wasserstein robust models
 
 * LAMSADE-MILES seminar - Université Paris Dauphine, Paris (talk), 2024
 * Journées SMAI-MODE Lyon (talk), 2024
+* PGMO days, 2025
 
 
 **  Nonsmooth nonconvex stochastic heavy ball,  Mathematical Optimization research seminar, University of Tübingen (online talk), 2024.
@@ -97,8 +95,8 @@ Between 2020 and 2023, I gave several tutorials at Université Toulouse 1 Capito
 
 ## Professional services
 
-* Co-organizing the statistics seminar at LPSM in 2024-2025.
-* I served as a reviewer for AISTATS (2023), ICLR (2025), SIAM Journal on optimization and Mathematical programming.
+* Co-organizing the statistics seminar at LPSM in 2024-2026.
+* I served as a reviewer for AISTATS (2023), ICLR (2025), SIAM Journal on optimization, Mathematical programming, Mathematics of Operations Research, and Set-Valued and Variational Analysis.
 
 ## Education
 * Ph.D. in Applied Mathematics, Toulouse School of Economics, 2020 - 2023

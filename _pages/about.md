@@ -17,7 +17,8 @@ Previously, I was a postdoctoral researcher in the team [DAO](https://dao-ljk.im
 
 ## Pre-prints
 
-Unregularized limit of stochastic gradient method for Wasserstein distributionally robust optimization \[[pre-print](https://arxiv.org/abs/2506.04948)\]
+Convergence of empirical subgradients for optimal transport-based objectives \[[pre-print](https://arxiv.org/pdf/2605.28134)\]
+Unregularized limit of stochastic gradient method for Wasserstein distributionally robust optimization \[[pre-print](https://arxiv.org/pdf/2506.04948)\]
 
 ## Publications
 
@@ -39,15 +40,19 @@ I was awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our
 
 ## Communications
 
+** Convergence of empirical subgradients for optimal transport-based learning, Curves and Surfaces 2026, Saint Malo
+
 **  Inexact subgradient methods for semialgebraic functions, ICCOPT 2025, Los Angeles
 
 ** Talk for the PGMO PhD Prize 2024 \[[slides](https://ntamle.github.io/files/pgmo_phd_prize_slides.pdf)\]
 
 ** Generalization guarantees of Wasserstein robust models
 
-* LAMSADE-MILES seminar - Université Paris Dauphine, Paris (talk), 2024
-* Journées SMAI-MODE Lyon (talk), 2024
+* SIAM Conference on Optimization 2026, Edinburgh
 * PGMO days, 2025
+* LAMSADE-MILES seminar - Université Paris Dauphine (talk), 2024
+* Journées SMAI-MODE (talk), 2024, Lyon
+
 
 
 **  Nonsmooth nonconvex stochastic heavy ball,  Mathematical Optimization research seminar, University of Tübingen (online talk), 2024.
@@ -73,25 +78,26 @@ I was awarded the [PGMO PhD Award 2024](https://www.fondation-hadamard.fr/en/our
  
 
 ## Teaching
+ 
+* I teach **Optimization for Machine Learning** in the M2MO/MIDS master’s program at **Université Paris Cité**.
 
-In 2024-2025, I gave tutorials (sessions dedicated to guided exercises) and hands on sessions (TD et TP) to Bachelor students  at Université Paris Cité
+From **2024 to 2026**, I taught tutorials and hands-on sessions — *TD* and *TP* — for bachelor’s students at **Université Paris Cité** in the following courses:
 
-* Numerical methods (L3 Maths, MIASHS)
-* Convex optimization (L3 Maths, MIASHS)
-* Statistics and sampling methods (L3 Maths-Enseignement)
-* Ordinary differential equations for biology (L2 Biologie)
+* Numerical Methods, L3 Mathematics/MIASHS
+* Convex Optimization, L3 Mathematics/MIASHS
+* Statistics and Sampling Methods, L3 Mathematics-Education
+* Ordinary Differential Equations for Biology, L2 Biology
 
-Between 2020 and 2023, I gave several tutorials at Université Toulouse 1 Capitole and Toulouse School of Economics
+Between **2020 and 2023**, I taught several tutorials at **Université Toulouse 1 Capitole** and the **Toulouse School of Economics** in the following courses:
 
-* R for data science and statistics (M1 Data science for social sciences)
-* Optimization for big data (M1 Data science for social sciences)
-* PyTorch tutorial for Deep Learning (M2 Data science for social sciences)
-* Optimization (L3 Economie)
-* Analysis and Optimization, (L3 Economie et Mathématiques)
-* Support course in mathematics (L1)
-* Mathematics, Undergraduate (L1 Economie et Mathématiques, L1 Economie Gestion, L1 Gestion)
-* Descriptive statistics (L1)
-
+* R for Data Science and Statistics, M1 Data Science for Social Sciences
+* Optimization for Big Data, M1 Data Science for Social Sciences
+* PyTorch Tutorial for Deep Learning, M2 Data Science for Social Sciences
+* Optimization, L3 Economics
+* Analysis and Optimization, L3 Economics and Mathematics
+* Mathematics Support Course, L1
+* Mathematics, Undergraduate level: L1 Economics and Mathematics, L1 Economics and Management, L1 Management
+* Descriptive Statistics, L1
 
 ## Professional services
 

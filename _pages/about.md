@@ -17,8 +17,8 @@ Previously, I was a postdoctoral researcher in the team [DAO](https://dao-ljk.im
 
 ## Pre-prints
 
-Convergence of empirical subgradients for optimal transport-based objectives \[[pre-print](https://arxiv.org/pdf/2605.28134)\]
-Unregularized limit of stochastic gradient method for Wasserstein distributionally robust optimization \[[pre-print](https://arxiv.org/pdf/2506.04948)\]
+* Convergence of empirical subgradients for optimal transport-based objectives \[[pre-print](https://arxiv.org/pdf/2605.28134)\]
+* Unregularized limit of stochastic gradient method for Wasserstein distributionally robust optimization \[[pre-print](https://arxiv.org/pdf/2506.04948)\]
 
 ## Publications
 
